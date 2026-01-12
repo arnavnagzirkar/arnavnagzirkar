@@ -1,39 +1,37 @@
 ## Hi, I’m Arnav 👋
 
-I’m a 4th year Honours Bachelor of Science student at the University of Toronto, studying Computer Science, Statistics, and Economics. I’m interested in machine learning, systems, and building real products at scale.
+I’m a 4th year Honours Bachelor of Science student at the University of Toronto, studying Computer Science, Statistics, and Economics. I’m interested in machine learning, full stack and systems development, and building real products at scale.
 
-I enjoy working on projects that combine software engineering, data, and applied ML, especially in fintech, analytics, and developer tooling.
+I enjoy working on projects that combine software engineering, data, and applied ML.
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages**
-TypeScript, Python, Java, C, SQL, Stata
+Python, TypeScript, JavaScript, Java, C, SQL (PostgreSQL), R, Stata, HTML, CSS
 
-**Frameworks & Tools**
-React, Next.js, Node.js, Expo, Tailwind CSS, Git, Linux
+**Frameworks & Libraries**
+React, Next.js, Node.js, React Native, Expo, Flask, FastAPI, Django, Tailwind CSS
 
-**ML & Data**
-scikit-learn, pandas, NumPy, basic MLOps workflows, data analysis and modeling
+**Machine Learning & Data**
+scikit-learn, XGBoost, LSTM, Transformers (HuggingFace), pandas, NumPy, PyTorch, TensorFlow
+Alpha factor modeling, signal decay analysis, feature engineering, quantitative research
 
+**Cloud & DevOps**
+AWS (S3, ECS), Docker, GitHub Actions (CI/CD), Vercel, Supabase, OVH Cloud
+
+**Tools & Platforms**
+Git, Linux, Jupyter, Plotly, yfinance, LangChain, OAuth2
 ---
 
 ## 🚀 Projects
 
-**StocksNow**  
+**QuantSight**  
 ML driven financial analysis platform for stock insights and signals  
 Tech: TypeScript, ML models, data pipelines
 
-**Bop App**  
-Music discovery app with swipe based UX and ML powered recommendations  
-Tech: React Native, Expo, TypeScript
-
-**A1 Utilities**  
-Discord bot providing moderation and engagement tools  
-Tech: Node.js, JavaScript
-
-More projects are available below in my repositories.
+More projects are displayed on my website!
 
 ---
 
@@ -47,8 +45,10 @@ University of Toronto
 
 ## 📫 Connect with me
 
+Email: arnav.nagzirkar@gmail.com
 Website: https://arnavnagzirkar.com  
 LinkedIn: https://www.linkedin.com/in/arnav-nagzirkar-43a7a9206/
+
 
 ---
 
